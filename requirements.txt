@@ -5,5 +5,5 @@ numpy==2.3.2
 pandas==2.3.2
 plotly==6.0.1
 PyDrive2==1.21.3
-scikit-learn==1.7.1
+scikit-learn==1.6.1
 streamlit==1.49.0
